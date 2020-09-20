@@ -1,4 +1,4 @@
-# Hello, welcome to my profile. 👋
+# Hi, I'm Bladimir. 👋
 
 > The  mind is like a parachute: it only works if it is opened. (Albert Einstein)
 
