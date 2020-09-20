@@ -4,4 +4,4 @@
 
 ![](https://github.com/Lovux06/Lovux06/blob/master/Lovux06.gif)
 
-[SERVITEC](http:// https://lovux06.github.io/SERVITEC/)
+[SERVITEC](https://lovux06.github.io/SERVITEC/)
