@@ -1,6 +1,4 @@
-~~~js
-console,log('Hello, welcome to my profile. 👋')
-~~~
+# Hello, welcome to my profile. 👋
 
 > The  mind is like a parachute: it only works if it is opened. (Albert Einstein)
 
