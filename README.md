@@ -8,7 +8,7 @@
 
 ### *Visita mi sitio web:* [SERVITEC](https://lovux06.github.io/SERVITEC/)
 
-~~~
+~~~ java
 public class ServiTec{
   public static void main(String[] args){
     System.out.println("Bladimir Guevara");
