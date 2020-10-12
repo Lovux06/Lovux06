@@ -7,3 +7,11 @@
 > La mente es como un paracaídas: solo funciona si está abierta. (Albert Einstein)
 
 ### *Visita mi sitio web:* [SERVITEC](https://lovux06.github.io/SERVITEC/)
+
+~~~
+public class ServiTec{
+  public static void main(String[] args){
+    System.out.println("Bladimir Guevara");
+  }
+}
+~~~
